@@ -48,8 +48,6 @@
                                 <h2 class="italic">Vancouver Hillel has a team of dynamic and passionate staff who are driven to provide Jewish student programming and presence on campus across British Columbia.</h2>
                                 <br />
 
-				<h2>Exciting staff updates coming soon!!</h2>
-                                
                                 <h2>Eyal Lichtmann, executive director</h2>
                                 <a href="mailto:Eyal Lichtmann<eyal@vancouverhillel.ca">eyal@vancouverhillel.ca</a>
                                 <p>During his undergraduate career at UBC, Eyal served as student president at Hillel for 3 years, and upon graduation worked as the Hillel Program Director for two years prior to obtaining his MBA. After working in the corporate sector for several years, Eyal returned to Vancouver Hillel as the Executive Director and now provides guidance and oversight to students during their tenure at post secondary institutions.</p>
@@ -62,13 +60,17 @@
                                 <a href="mailto:Maggie Yonash<maggie@vancouverhillel.ca>">maggie@vancouverhillel.ca</a>
                                 <p>Maggie has been working for and volunteering with Vancouver Hillel for the past 14 years.  She is originally from Israel and among other things is tirelessly working on Vancouver Hillel’s <a href="captialCampaign.php">Capital Campaign</a> and annual Gala.</p>
                                 
-                                <h2>Pat Johnson, managing director, communications and programming</h2>
+                                <h2>Pat Johnson, sfu hillel director and managing director, communications and programming</h2>
                                 <a href="mailto:Pat Johnson<pat@vancouverhillel.ca>">pat@vancouverhillel.ca</a>
-                                <p>Currently based out of the <a href="sfu.php">SFU</a> Hillel House, Pat joined Vancouver Hillel as the Development and Communications Director in the fall of 2006. He has an extensive background in journalism and has a broad understanding of the Jewish community. Pat writes frequently for the Jewish Indpenendent as well as his own MVOX Multicultural Digest.</p>
+                                <p>Currently based out of the <a href="sfu.php">SFU</a> Hillel House, Pat joined Vancouver Hillel as the Development and Communications Director in 2006. He has an extensive background in journalism, the nonprofit sector and Jewish communal service.</p>
+
+				<h2>Paul Curran, ubc program director</h2>
+				<a href="mailto: Paul Curran<programdirector@vancouverhillel.ca>">programdirector@vancouverhillel.ca</a>
+				<p>Paul was a student leader with Hillel before graduating from UBC in 2009. With his knowledge of campus life, his passion for social justice and a diverse range of interests and skills, Paul’s addition to the Hillel programming team is an example of seamless the transition Hillel strives to facilitate, launching student leaders into success contributing to the broader world.</p>
                                 
-                                <h2>Eitan Pinsky, ubc program director and development assistant</h2>
+                                <h2>Eitan Pinsky, development assistant</h2>
                                 <a href="mailto:Eitan Pinsky<eitan@vancouverhillel.ca>">eitan@vancouverhillel.ca</a>
-                                <p>Eitan Pinsky, a Vancouver native and a graduate of the Rotman Commerce program at the University of Toronto, served on Vancouver Hillel's <a href="bod.php">BOD</a> before joining Vancouver Hillel's staff team. As part of his work with Vancouver Hillel, Eitan co-established Vancouver Hillel's Young Jewish Urbanites: Professional Division (<a href="hyju.php">HYJU</a>: PD). This year he will be busy taking on a new role as <a href="ubc.php">UBC</a> Program Director.</p>
+                                <p>Eitan Pinsky, a Vancouver native and a graduate of the Rotman Commerce program at the University of Toronto, served on Vancouver Hillel's <a href="bod.php">Board of Directors</a> before joining Vancouver Hillel's staff team. As part of his work with Vancouver Hillel, Eitan co-established Vancouver Hillel's Young Jewish Urbanites: Professional Division (<a href="hyju.php">HYJU</a>: PD). This year he will be busy taking on a new role leading Hillel's exciting new social enterprise <a href="http://campusauction.ca">CampusAuction.ca</a></p>
                                 
                                 <h2>Ayelet G. Weil, uvic director</h2>
                                 <a href="mailto:Ayelet G. Weil<uvicdirector@vancouverhillel.ca>">uvicdirector@vancouverhillel.ca</a>
