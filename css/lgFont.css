@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	font-size: 15px;
+}
+
+a.nav {
+	font-size: 16px;
+}
+
+p.location {
+	font-size: 14px;
+}
+
+h1 {
+	font-size: 16px;
+}
+
+h2 {
+	font-size: 15px;
+}
+
