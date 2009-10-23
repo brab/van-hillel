@@ -51,6 +51,7 @@
 								?>
                             </td>
                             <td>
+				<a href="http://www.campusauction.ca" target="_blank"><img class="poster" src="img/poster/campusauction.jpg" /></a>
                             	<?php
 									$maxPosters = 6;
 									$path = "img/poster/home/";
