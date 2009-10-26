@@ -56,6 +56,8 @@
 				<p>Vancouver Hillel is proud to welcome Mr. Neuer on his first UN Watch visit to British Columbia. Mr. Neuer’s work defending Israel on the international stage is an inspiration to Vancouver Hillel students who are making the same case on British Columbia campuses. </p>
 
 				<p>This event will be an unprecedented opportunity to hear a leading voice for fair treatment for Israel in the international arena – while supporting Vancouver Hillel’s vital Israel advocacy education. Please save the date.</p>
+
+				<p><a href="img/gala2009_invitation.pdf" target="_blank"><img src="img/gala2009_invitation_thumbnail.jpg" style="width: 350px; height: 350px;"/><br />Click here to view the invitation</a></p>
 			    </td>
                             <td id="posters">
                                 <?php
